@@ -1,44 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">ReactJS Ethereum Lottery Application</h1>
+<br>
+<p align="center">
+  <img alt="solidity" title="solidity" src="https://2.bp.blogspot.com/-zCJa5fv2GvI/WZr3runDMxI/AAAAAAAAcOA/xaVaP_FtfAoBgUEudfDuYi5j2lKY-CWwwCLcBGAs/s1600/Solidity.png" width="142">
+  <img alt="ethereum" title="ethereum" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/2000px-Ethereum_logo_2014.svg.png" width="142">
+  <img alt="react" title="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="142">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/yarn-v1.10.1-green.svg" />
+    <img src="https://img.shields.io/badge/node-v8.0.0-green.svg" />
+    <img src="https://img.shields.io/badge/solidity-v0.4.17-green.svg" />
+    <img src="https://img.shields.io/badge/React-v16.6.3-green.svg" />
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Built With](#built-with)
+- [Install](#install)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Introduction
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+An lottery ethereum smart contract.
 
-### `npm test`
+## Built-With
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node v8.10.0
+- React v16.6.3
+- Yarn v1.10.1
+- Solidity 0.4.17
+- solc 0.4.25
+- Web3 1.0.0-beta.35
+- Ganache 6.1.8
+- mocha 5.2.0
 
-### `npm run build`
+## Install
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Clone <a href="https://github.com/maxsilvauk/reactjs-ethereum-lottery-app.git">repository</a> into your htdocs.
+```
+git clone https://github.com/maxsilvauk/reactjs-ethereum-lottery-app.git
+```
+* Move to the project root folder.
+* Install node dependancies with Yarn
+```
+yarn
+```
+* Testing using Mocha
+```
+yarn test
+```
