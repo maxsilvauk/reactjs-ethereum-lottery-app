@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="solidity" title="solidity" src="https://2.bp.blogspot.com/-zCJa5fv2GvI/WZr3runDMxI/AAAAAAAAcOA/xaVaP_FtfAoBgUEudfDuYi5j2lKY-CWwwCLcBGAs/s1600/Solidity.png" width="142">
   <img alt="ethereum" title="ethereum" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/2000px-Ethereum_logo_2014.svg.png" width="142">
-  <img alt="react" title="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="142">
+  <img alt="react" title="react" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="242">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/yarn-v1.10.1-green.svg" />
