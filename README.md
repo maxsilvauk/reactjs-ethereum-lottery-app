@@ -20,7 +20,7 @@
 
 ## Introduction
 
-An lottery ethereum smart contract.
+An lottery ethereum react app built with create-react-app.
 
 ## Built-With
 
